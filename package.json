@@ -1,0 +1,32 @@
+{
+  "name": "projectapi",
+  "version": "0.0.1",
+  "description": "API Rest with Node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pug": "^2.0.0-alpha3"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "supertest": "1.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrouelle/node-project-restapi.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "nodejs"
+  ],
+  "author": "Nadège Rouelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrouelle/node-project-restapi/issues"
+  },
+  "homepage": "https://github.com/nrouelle/node-project-restapi#readme"
+}
